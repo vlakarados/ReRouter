@@ -3,7 +3,7 @@ Routing and middleware built on FastRoute
 
 Really early alpha - unstable, unsecure, just as the one you'd like to use, have fun!
 
-
+## Installation
 
 ## Features
 
@@ -26,3 +26,6 @@ Really early alpha - unstable, unsecure, just as the one you'd like to use, have
 #### Middleware
 + Add optional middleware to any route or route group or the whole application.
 + Define as many types of middleware as you want and run it anywhere in your app by calling the middleware.
+
+
+## Using ReRouter
