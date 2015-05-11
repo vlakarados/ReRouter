@@ -1,5 +1,5 @@
 {
-    "name": "vlakarados/ReRouter",
+    "name": "vlakarados/rerouter",
     "description": "Advanced routing on top of FastRoute",
     "require": {
         "php": ">=5.3.0",
